@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "async": "~0.9.0",
-    "jsdoc-to-markdown": "^0.5.7",
+    "jsdoc-to-markdown": "git://github.com/jsdoc3/jsdoc.git",
     "mocha": "^1.21.4",
     "should": "~4.0.4"
   }
