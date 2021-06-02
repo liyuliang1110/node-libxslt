@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bindings": "^1.3.0",
+    "bindings": "^1.5.0",
     "libxmljs-mt": "git://github.com/liyuliang1110/libxmljs.git",
-    "nan": "~2.10.0"
+    "nan": "^2.14.2"
   },
   "devDependencies": {
     "async": "~0.9.0",
